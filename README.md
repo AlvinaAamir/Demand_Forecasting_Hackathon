@@ -8,7 +8,7 @@ This project develops predictive models for XYZ Apparel Ltd., a global sportswea
 ## Deliverables
 1. **Proposal Document**: [Proposal](./proposal%20assignment%20(2).docx)
 2. **Jupyter Notebook**: [Hackathon Code](./MBAN5110_Hackathon_Exam.ipynb)
-3. **Dataset**: [Dataset](./data_set_hackathon.csv) *(if allowed)*
+3. **Dataset**: [Dataset](./data_set_hackathon.csv) 
 4. **Report/Presentation**: Include final recommendations and insights.
 
 ---
